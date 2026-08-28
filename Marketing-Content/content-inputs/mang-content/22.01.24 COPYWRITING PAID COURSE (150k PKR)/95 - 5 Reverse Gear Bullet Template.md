@@ -1,0 +1,1 @@
+Here are the key observations from the transcript
