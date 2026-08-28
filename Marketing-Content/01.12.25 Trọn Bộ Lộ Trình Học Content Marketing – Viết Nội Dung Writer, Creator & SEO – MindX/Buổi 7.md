@@ -1,82 +1,102 @@
 ---
-title: "Buổi 7: Facebook Ads & Performance Content - Định dạng, Mục tiêu và Quy trình viết Copy"
-course: "01.12.25 Trọn Bộ Lộ Trình Học Content Marketing – Viết Nội Dung Writer, Creator & SEO – MindX"
-module: "Mặc định"
+title: "Buổi 7: Hiểu và Viết Performance Content – Định nghĩa, Cấu trúc và Ví dụ thực tế Facebook Ads"
+course: "content-inputs"
+module: "mang-content/01.12.25 Trọn Bộ Lộ Trình Học Content Marketing – Viết Nội Dung Writer, Creator & SEO – MindX"
 instructor: "Không rõ"
 difficulty: "Trung cấp"
 tags:
+  - "Content Marketing"
   - "Facebook Ads"
   - "Performance Content"
   - "Copywriting"
-  - "Marketing"
-  - "Facebook Policy"
-  - "AIDA"
-  - "VAS"
-  - "3S"
-  - "PAS"
-summary: "Bài giảng hệ thống hóa các định dạng, mục tiêu và công thức viết copy cho quảng cáo Facebook Ads, kèm case study thực tiễn về sản phẩm skincare Coley/Pinopool. Nội dung bao gồm quy trình chọn định dạng, khung AIDA/VAS/3S/PAS, chính sách cấm hạch Facebook và nguyên tắc Performance Content để tối ưu hóa chuyển đổi."
+  - "Digital Marketing"
+summary: "Bài giảng phân tích sâu về Performance Content so với Organic Content, cấu trúc chi tiết cho Facebook Ads (Title, Content, Contourion, Visual), các khung viết (AIDA/IDA/VAS/3S), các chỉ số KPI (CPM, CPC, CTA, Conversion) và các ví dụ thực tế về quy trình tạo và tối ưu hóa quảng cáo."
+
 ---
-# Buổi 7: Facebook Ads & Performance Content - Định dạng, Mục tiêu và Quy trình viết Copy
+
+# Buổi 7: Hiểu và Viết Performance Content – Định nghĩa, Cấu trúc và Ví dụ thực tế Facebook Ads
 
 ## 💡 Tóm Tắt Cốt Lõi (Key Takeaways)
-- Hiểu rõ 4 định dạng quảng cáo Facebook: Hình ảnh, Video, Carousel (thương mại điện tử) và khi nào dùng từng dạng.
-- Khai thác 3 công thức copy chính: AIDA, VAS, 3S, PAS để xây dựng nội dung Performance có cấu trúc và dẫn dắt hành động.
-- Mục tiêu chiến dịch quyết định định dạng quảng cáo và chỉ số đo lường (Traffic -> Website, Engagement -> Tương tác fanpage, Messages -> Tin nhắn, Conversion -> Mua hàng/Lead).
-- Quy trình viết copy Performance: Xác định mục tiêu -> Đánh trúng insight đau đầu -> Viết ngắn gọn, xúc tích -> Có CTA rõ ràng -> Tránh từ ngữ rời rạc hoặc vi phạm chính sách.
-- Ví dụ thực tiễn: Sản phẩm Coley/Pinopool - tập trung vào vấn đề da mụn/ lỗ chân lông, khuyến mãi hạn chế thời gian (12/1 - 12/10 tại Takashimaya), tránh hình ảnh before/after do chính sách Facebook.
+- **Phân biệt Organic và Performance Content:** Organic Content tập trung vào việc định hình thương hiệu và tăng nhận thức (branding), trong khi Performance Content hướng tới việc thúc đẩy khách hàng thực hiện hành động cụ thể (mua hàng, đăng ký, nhắn tin) và liên kết trực tiếp với chỉ số chuyển đổi và doanh thu.
+- **Cấu trúc thành công của Performance Content:** Một mẫu quảng cáo hiệu quả phải bao gồm 4 phần không thể thiếu: **Tiêu đề** (5-7 từ, nhấn mạnh khuyến mãi), **Nội dung** (rõ ràng, ngắn gọn, thể hiện điều kiện khuyến mãi, thời gian và CTA), **Contourion** (kêu gọi hành động ngay, thường đặt trên đường link hoặc phần tử nổi bật), và **Visual** (quyết định 60-70% thành công, phải hấp dẫn và liên quan đến sản phẩm/khuyến mãi).
+- **Khung viết (Frameworks):** Sử dụng AIDA (Attention - Interest - Desire - Action), IDA, VAS hoặc công thức 3S để xây dựng nội dung có logic, đánh trúng tâm lý khách hàng và kêu gọi hành động.
+- **KPIs đo lường hiệu quả:** Chọn các chỉ số phù hợp với mục tiêu chiến dịch: CPM (Cost Per Impression - chi phí trên 1000 lượt hiển thị), CPC (Cost Per Click - chi phí trên 1 click), CTA/Conversion (tỷ lệ chuyển đổi/click vào link), và Raw (lượng lít/hiển thị) để đánh giá độ phủ và hiệu quả.
+- **Quy trình AP Testing:** Test 3-5 mẫu quảng cáo cùng đối tượng/target để tìm mẫu có hiệu quả cao nhất (CPM thấp nhất hoặc Conversion cao nhất), giúp tiết kiệm thời gian và chi phí cho team marketing.
+- **Chính sách Facebook:** Tránh các chủ đề vi phạm (Chính trị, Rượu bia, Thực phẩm chức năng, Hàng giả/nhái). Về hình ảnh Before/After, Facebook có quy định chặt chẽ, không được展示 trực diện quá mạnh về thay đổi thể chất mà không có thời gian/quá trình. Xác minh thương hiệu (Green check) giúp chạy quảng cáo an toàn hơn.
 
 ## 📖 Nội Dung Chi Tiết
 
-### 1. Định dạng quảng cáo và khi nào dùng
-- **Hình ảnh (Single Image):** Đơn giản, phù hợp đa mục đích. Nếu website không phải sàn TMĐT thì chỉ chạy 3 dạng đầu (hình ảnh, video, carousel cơ bản).
-- **Video:** Hiển thị theo mẫu video, phù hợp kể chuyện hoặc demo sản phẩm chi tiết.
-- **Carousel (Thương mại điện tử):** Hình kéo qua, phù hợp FMCG, nhiều sản phẩm/catalog. Cần website cấu trúc sàn TMĐT để chạy dạng này; nếu không có sàn TMĐT thì chỉ chạy được 3 dạng đầu.
-- **Mối quan hệ định dạng - mục tiêu:** Mục tiêu Traffic/Click phù hợp với hình ảnh/video đơn lẻ; Mục tiêu Engagement phù hợp với video/carousel có tương tác; Mục tiêu Conversion/Liên kết phù hợp với carousel sàn TMĐT hoặc landing page.
+### 1. Khái niệm và Phân loại Content
+**Organic Content** là dạng content nhằm mục đích xác định và branding về sản phẩm hoặc chiến dịch, thường không có kêu gọi hành động mua ngay trực diện, mà tập trung vào việc xây dựng mối quan hệ và giá trị cho thương hiệu. Khách hàng tiếp cận qua các kênh tự nhiên, không chi phí hiển thị trực tiếp.
+**Performance Content** là content nhằm mục đích thúc đẩy khách hàng thực hiện một hành động cụ thể như mua sắm, đăng ký, hoặc tăng trưởng doanh thu/thương hiệu. Cần có các yếu tố rõ ràng: nội dung chính xác, visual hấp dẫn và Contourion (kêu gọi hành động) rõ ràng.
 
-### 2. Công thức viết copy Performance (AIDA / VAS / 3S / PAS)
-- **AIDA:** Attention (Sự chú ý) -> Interest (Sở thích) -> Desire (Nhu cầu) -> Action (Hành động).
-  - Ví dụ trong bài: Tiêu đề tạo chú ý (giảm 30% hoặc 3% giảm mụn), thân đoạn đưa ra vấn đề da mụn, khuyến mãi cụ thể (3% giảm mụn 7 ngày, thu nhỏ lỗ chân lông 82% 28 ngày), CTA dẫn đến cửa hàng/trải nghiệm.
-- **PAS:** Problem (Vấn đề) -> Agitation (Thiết phục/nâng cao vấn đề) -> Solution (Giải pháp). Phù hợp cho nội dung tập trung vào đau đầu của khách hàng, như Coley tập trung vào mụn và lỗ chân lông.
-- **VAS / 3S:** (Từ transcript提到 nhưng không giải thích sâu, giữ tên framework và chú ý cách dùng).
-- **Quyền viết copy:** Phải ngắn gọn, xúc tích, tránh "lời thê", "nói rượm", từ ngữ không liên kết. Mỗi đoạn phải liên mạch với nhau, dẫn dắt logic đến CTA. Tránh sử dụng các từ ngữ quảng cáo Facebook lặp lại không có nghĩa hoặc không kết nối với nhau, giúp nội dung không bị rời rạc và người đọc không cảm thấy không pháp giảng.
+### 2. Cấu trúc một mẫu Performance Content thành công (Facebook Ads)
+Mẫu quảng cáo Performance trên Facebook Ads hoàn toàn giống như một cấu trúc bộ phân mạnh mẽ, bao gồm 4 phần chính:
 
-### 3. Case Study: Sản phẩm Coley Pinopool (Skincare)
-- **Vấn đề cốt lõi:** Da mụn, lỗ chân lông to do yếu tố nhờn/age.
-- **Sự thiết phục:** Giảm 3% mụn sau 7 ngày; thu nhỏ 82% lỗ chân lông sau 28 ngày. Rõ ràng đánh trúng tâm lý hệ hiếu của người tiêu dùng: muốn kết quả nhanh (7 ngày) và lâu dài (28 ngày).
-- **Khuyến mãi:** Thời gian giới hạn (12/1 → 12/10), tại Takashimaya, tặng quà khi mua (thân phấn trị giá 399k). Kéo dài cảm giác khan hiếm và khan hiếm thời gian.
-- **Yêu cầu hình ảnh:** Không được dùng "before/after" do chính sách Facebook cấm. Cần hiện thực hóa yếu tố "giải pháp" chứ không phải "thay đổi hoàn toàn". Visual phải tập trung vào trạng thái da trước khi dùng (ví dụ: da mụn, lỗ to) và trạng thái sau dùng (da mịn, lỗ nhỏ đi) thông qua mô tả chứ không phải ảnh cắt ghép.
-- **Hành động kêu gọi (CTA):** Đưa người dùng đến cửa hàng, dùng thử, nhận quà, hoặc mua hàng online. CTA phải rõ ràng, ngắn gọn và đi kèm điều kiện (ví dụ: "Mua ngay tại Takashimaya 12/1 - 12/10 và nhận quà tặng").
+*   **📢 Tiêu đề (Headline):** 
+    *   Phải tập trung vào yếu tố khuyến mãi ngay từ dòng đầu tiên.
+    *   Độ dài từ 5 đến 7 từ (không quá dài do quy định hiển thị của Facebook làm dòng tiêu đề đi xuống hàng).
+    *   Các từ khóa nhấn mạnh: "Sale up to...", "Hot deal", "Last chance", "Giảm ngay...", "Mua thử".
+*   **📝 Nội dung (Primary Text):** 
+    *   Phải ngắn gọn và xúc tích (tối đa 10 từ hoặc các đoạn ngắn), tránh kể chuyện dài hoặc storytelling quá lan man.
+    *   **Bắt buộc phải thể hiện rõ:**
+        *   Nội dung chương trình khuyến mãi là gì.
+        *   Điều kiện áp dụng (thời gian, đối tượng, khu vực).
+        *   CTA (Call to Action) cụ thể: "Mua ngay", "Đăng ký", "Thử ngay".
+        *   Hashtag liên quan (nếu có).
+*   **🎯 Contourion (Call to Action/CTA):** 
+    *   Là phần bắt buộc phải có để kêu gọi thực hiện hành động của người tiêu dùng.
+    *   Ví dụ: "Mua ngay", "Đăng ký ngay", "Hẹn giờ", "Xem thêm".
+    *   Thường được đặt trên đường link hoặc phần tử nổi bật trong visual.
+*   **🖼️ Visual (Hình ảnh/Video):** 
+    *   Quyết định 60-70% thành công của mẫu quảng cáo.
+    *   Phải liên quan trực tiếp đến sản phẩm và chương trình khuyến mãi.
+    *   Phải nổi bật để thu hút sự chú ý ngay khi lướt trên New Feed (Facebook/Instagram).
+    *   Phải thể hiện rõ yếu tố kích thích: con số giảm giá, sản phẩm mới, gói quà tặng.
 
-### 4. Chính sách quảng cáo Facebook (Quan trọng)
-- **Cấm hạch:** 
-  - Hình ảnh before/after (đặc biệt beauty, skincare, weight loss, thẩm mỹ viện).
-  - Sản phẩm liên quan đến rượu, bia, thuốc lá, cá cược, chính trị, tôn giáo, chủng tộc, chính trị Việt Nam.
-  - Hàng giả/nhái không có chứng từ quyền sử dụng hương hiệu.
-- **Hậu quả:** Cảnh cáo -> Hạn chế tính năng quảng cáo (30 ngày) -> Khóa vĩnh viễn trang nếu lạm dụng.
-- **Thương hiệu:** Cần chứng từ quyền sử dụng hương hiệu, tích xanh xác minh trên Facebook Business Manager. Nếu hàng giả/nhái -> Block tài khoản, phải tạo trang mới và chạy lại từ đầu.
-- **AP Testing:** Test phân bổ ngân sách giữa FB và Instagram. 
-  - **Instagram:** Chi phí cao hơn, tỷ lệ chuyển đổi (nhắn tin → mua) tốt hơn (khoảng 4-5 khách hàng nhắn tin -> 1 mua). Thể loại sáng tạo, visual중심.
-  - **Facebook:** Thể tích lượng lớn hơn, chi phí thấp hơn nhưng chuyển đổi thấp hơn, phù hợp tăng volume truy cập hoặc nhận biết thương hiệu rộng lớn.
-- **Chọn mục tiêu vs Chỉ số:** 
-  - Traffic/Click: Chi phí trả kết quả tính theo lượt click/landing page.
-  - Engagement: Tương tác like/comment/share trên bài viết.
-  - Conversion: Mua hàng, lead, khách hàng tiềm năng.
-  - Awareness/Reach: Lượng người tiếp cận, hiển thị.
-- **Quy trình chọn mục tiêu:** Phải khớp với mục đích thực tế. Ví dụ: Muốn bán hàng Shopee/TikTok Shop -> Chọn mục tiêu "Liên kết" (Conversions/Lead), không chọn Traffic hay Engagement. Muốn tăng nhận biết -> Chọn Awareness/Reach.
+### 3. Các Khung Viết (Frameworks) phổ biến
+Để đánh giá và viết mẫu quảng cáo hiệu quả, các nhà marketer thường áp dụng các khung viết sau:
 
-### 5. Nguyên tắc Performance Content
-- **Xác định mục tiêu rõ ràng** trước khi viết bất kỳ dòng copy nào.
-- **Đi thẳng vào vấn đề:** Nêu pain point, có chương trình khuyến mãi cụ thể, tránh lan man.
-- **Ngắn gọn & Xúc tích:** Tránh từ ngữ quảng cáo lan man, lời nói không có nghĩa, từ ngữ không liên kết với nhau.
-- **Cấu trúc logic:** Mỗi ý phải liên kết, từ ngữ nối mạch, dẫn đến CTA. Nội dung phải có chặt chẽ, không có những cụm từ rời rạc hoặc nghĩa đen/nghe bóng mà không có liên kết.
-- **Thiết kế visual:** Phù hợp với nội dung, tránh vi phạm chính sách (không show kết quả thần chưởng, không dùng before/after, tuân theo quy định về hương hiệu và sản phẩm).
+*   **AIDA (Attention, Interest, Desire, Action):**
+    *   **Attention (Sự chú ý):** Tiêu đề hoặc hình ảnh bắt mắt (Ví dụ: "Giảm 30% ngay hôm nay").
+    *   **Interest (Sự quan tâm):** Khẳng định vấn đề hoặc nhu cầu của khách hàng (Ví dụ: "Sắp hết năm, da bạn cần chăm sóc").
+    *   **Desire (Sự mong muốn):** Đưa ra giải pháp hoặc lợi ích hấp dẫn (Ví dụ: "Chăm sóc da sẽ sáng khỏe, mụn giảm 82%").
+    *   **Action (Hành động):** CTA rõ ràng (Ví dụ: "Mua ngay tại cửa hàng").
+*   **IDA / VAS / 3S:** Các công cụ viết cụ thể dành cho các ngành sản phẩm (ví dụ: da liễu, thời trang), giúp đánh trúng "điểm đau" (pain point) của khách hàng và kêu gọi hành động ngay.
+
+### 4. Các chỉ số KPI để đo lường hiệu quả
+Tùy thuộc vào mục tiêu chính của chiến dịch, các nhà marketer sẽ theo dõi các chỉ số sau:
+*   **CPM (Cost Per Impression):** Chi phí trả cho Facebook trên mỗi 1.000 lượt hiển thị quảng cáo. Dùng để đo lường hiệu quả tiếp cận và nhận diện thương hiệu.
+*   **CPC (Cost Per Click):** Chi phí trả cho Facebook trên mỗi 1 click vào quảng cáo. Dùng để đo lường hiệu quả dẫn dắt lưu lượng truy cập.
+*   **CTA / Conversion:** Tỷ lệ chuyển đổi – số lượng người thực hiện hành động mong muốn (mua hàng, đăng ký form, nhắn tin) so với tổng số lượt hiển thị/click. Đây là chỉ số quan trọng nhất cho mục tiêu bán hàng.
+*   **Raw (Lượng lít):** Tổng số lượt hiển thị hoặc click thu được. Dùng để đánh giá độ phủ của chiến dịch.
+
+**Quyết định KPI:** Nếu mục tiêu là nhận diện thương hiệu → ưu tiên CPM. Nếu mục tiêu là bán hàng/ chuyển đổi → ưu tiên CTA/Conversion và theo dõi chi phí CPC.
+
+### 5. Ví dụ thực tế (Case Studies)
+
+**Ví dụ 1: Mẫu quảng cáo Shopee**
+*   **Tiêu đề:** "Sale up to 60%".
+*   **Nội dung:** "Xem thêm thanh toán Xpay later". (Chứa điều kiện và lựa chọn thêm).
+*   **Contourion:** "Nhạc tay phát" (kêu gọi mua ngay qua đường link).
+*   **Visual:** Hình ảnh sản phẩm kèm con số "60% giảm" rõ ràng, ánh màu hấp dẫn. Thông điệp trực tiếp là "Ưu đãi độc quyền vào ngày 15 tháng 3".
+
+**Ví dụ 2: Coley Vinopool (Da liễu)**
+*   **Vấn đề:** Da bị mụn, lỗ chân lông rộng.
+*   **Giải pháp:** Sử dụng sản phẩm Coley Vinopool.
+*   **Kết quả:** Giảm mụn 3% và thu nhỏ lỗ chân lông 82% sau 28 ngày.
+*   **Cấu trúc bài viết:** Đánh trúng tâm lý hệ hiếu (da mụn -> muốn da mịn) -> Đưa ra chương trình khuyến mãi (thời hạn 12/10 đến 10/12) -> Có CTA "Mua thử/Đăng ký trải nghiệm" -> Visual thể hiện sự 개선 (tuân thủ quy định Facebook về Before/After).
+
+### 6. Quy tắc và Chính sách Facebook khi chạy quảng cáo
+*   **Nội dung nhạy cảm:** Facebook kiểm soát chặt các ngành: Chính trị, Rượu bia, Thực phẩm chức năng, Hàng giả/nhái. Nếu vi phạm, có thể dẫn đến cảnh báo, hạn chế tính năng quảng cáo (30 ngày) hoặc cấm vĩnh viễn.
+*   **Hình ảnh Before/After:** Quy định chặt chẽ. Không được展示 trực diện quá mạnh về thay đổi thể chất mà không có thời gian/quá trình kết hợp. Cần tuân thủ nguyên tắc "kiểm soát thông tin" theo quy định của quốc gia (Việt Nam).
+*   **Xác minh thương hiệu:** Fanpage có tích xanh (Green check) và hợp đồng phương mại hợp lệ sẽ an toàn hơn khi chạy quảng cáo về sản phẩm phương hiệu, tránh bị xác định là hàng giả/nhái.
+*   **Từ ngữ cấm:** Tránh các từ ngữ liên quan đến chính trị, bạo lực, sản phẩm y tế trực diện, đồ uống có cồn, trò chơi cờ bạc v.v. trên nền tảng Facebook/TikTok tại Việt Nam.
 
 ## ❓ Câu Hỏi & Trả Lời Trọng Tâm (Q&A for Search)
-- **Hỏi:** Cách chọn mục tiêu quảng cáo Facebook phù hợp với mục đích kinh doanh của mình là gì?
-  - **Đáp:** Phải làm rõ trước: Bạn muốn người dùng truy cập website, tương tác bài viết, gửi tin nhắn hay mua hàng? Mục tiêu quyết định định dạng quảng cáo và chỉ số đo lường. Ví dụ: Muốn bán hàng trên sàn TMĐT -> Chọn mục tiêu "Liên kết" (Conversions/Lead), không chọn Traffic hay Engagement.
-- **Hỏi:** Tại sao Facebook cấm sử dụng hình ảnh "before/after" trong quảng cáo beauty/skincare?
-  - **Đáp:** Chính sách Facebook cấm hiển thị các kết quả thay đổi thể xác hoặc承诺 kết quả thần chưởng vì dễ dẫn đến đánh tráo và vi phạm chính sách cộng đồng. Thay vào đó, cần mô tả vấn đề và khuyến mãi theo thời gian kèm chế độ chăm sóc/kết hợp.
-- **Hỏi:** Khung công thức AIDA, VAS, 3S, PAS khác nhau như thế nào và dùng cho trường hợp nào?
-  - **Đáp:** AIDA là cấu trúc truyền thống Attention→Interest→Desire→Action, phù hợp cho đa mục đích. VAS và 3S là biến thể tập trung vào giá trị/sự chú ý/sự tương đồng. PAS (Problem-Agitation-Solution) tốt nhất cho nội dung tập trung vào giải quyết vấn đề cụ thể (như skincare, sức khỏe). Chọn framework tùy insight khách hàng và mục đích copy.
-- **Hỏi:** Cách phân bổ ngân sách branding và performance trên Facebook/Instagram như thế nào?
-  - **Đáp:** Thông thường chia 50% branding, 50% performance hoặc theo tỷ trọng hoạt động chính trong tháng. Instagram chi phí cao hơn nhưng tỷ lệ chuyển đổi (nhắn tin -> mua) tốt hơn (khoảng 4-5%). Facebook có thể lượng lớn hơn, chi phí thấp hơn nhưng chuyển đổi thấp hơn, phù hợp tăng volume truy cập hoặc nhận biết thương hiệu rộng lớn.
+- **Hỏi:** Phân biệt Organic Content và Performance Content như thế nào?
+  - **Đáp:** Organic Content tập trung vào việc xây dựng thương hiệu và tăng nhận thức (branding), thường không có kêu gọi hành động mua ngay trực diện. Performance Content hướng tới việc thúc đẩy khách hàng thực hiện hành động cụ thể (mua hàng, đăng ký, nhắn tin) và liên kết trực tiếp với chỉ số chuyển đổi và doanh thu.
+- **Hỏi:** Cấu trúc của một mẫu quảng cáo Performance Content trên Facebook Ads là như thế nào?
+  - **Đáp:** Mẫu quảng cáo bao gồm 4 phần: Tiêu đề (5-7 từ, nhấn mạnh khuyến mãi), Nội dung (rõ ràng, ngắn gọn, thể hiện điều kiện khuyến mãi, thời gian, CTA), Contourion (kêu gọi hành động ngay, đặt trên đường link), và Visual (quyết định 60-70% thành công, phải hấp dẫn và liên quan đến sản phẩm).
+- **Hỏi:** Các chỉ số KPI nào nên theo dõi để đo lường hiệu quả Performance Content?
+  - **Đáp:** Tùy theo mục tiêu chiến dịch: CPM (chi phí trên 1000 lượt hiển thị) cho mục tiêu nhận diện; CPC (chi phí trên 1 click) cho mục tiêu lưu lượng; CTA/Conversion (tỷ lệ chuyển đổi/click vào link) và Raw (lượng lít) là các chỉ số cốt lõi cho mục tiêu bán hàng và chuyển đổi.

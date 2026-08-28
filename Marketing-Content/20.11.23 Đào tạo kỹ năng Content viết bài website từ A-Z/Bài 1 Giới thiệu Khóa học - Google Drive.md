@@ -1,49 +1,42 @@
 ---
 title: "Bài 1 Giới thiệu Khóa học - Google Drive"
-course: "20.11.23 Đào tạo kỹ năng Content viết bài website từ A-Z"
-module: ""
+course: "content-inputs"
+module: "mang-content/20.11.23 Đào tạo kỹ năng Content viết bài website từ A-Z"
 instructor: "Leo Minh"
 difficulty: "Cơ bản"
 tags:
   - "content writing"
   - "website content"
-  - "digital marketing"
-  - "course introduction"
-  - "ATB Academy"
-summary: "Bài giảng giới thiệu khóa đào tạo content viết bài website từ A-Z, bao gồm 5 mục tiêu chính về tầm quan trọng, kỹ năng, đánh giá, thăng tiến và kiến thức bổ trợ, cùng cấu trúc học tập với hơn 30 video và bài tập thực hành."
+  - "content marketing"
+summary: "Bài giảng giới thiệu tổng quan khóa học 'Viết bài website từ A-Z', bao gồm 5 mục tiêu chính về kỹ năng viết, đánh giá năng lực, cơ hội thăng tiến và hỗn thực tập qua tài khoản website được cung cấp bởi ATB Academy."
 ---
 
 # Bài 1 Giới thiệu Khóa học - Google Drive
 
 ## 💡 Tóm Tắt Cốt Lõi (Key Takeaways)
-- Khóa học định hướng rõ ràng tầm quan trọng và kỹ năng cần có cho content writer website.
-- Cung cấp hệ thống hơn 30 video và bài tập để rèn luyện thực chiến.
-- Đối học có cơ hội thực hành với tài khoản website được cung cấp từ con số 0.
-- 5 mục tiêu chính giúp theo dõ lộ trình thăng tiến và quản lý nội dung hiệu quả.
-- Phù hợp cho sinh viên và những ai muốn tìm kiếm công việc thứ 2 để thu nhập thêm.
+- Hiểu rõ tầm quan trọng của viết bài website trong marketing và phát triển con đường nghề nghiệp.
+- Nắm bắt các kỹ năng viết nội dung website và các framework đánh giá năng lực writer.
+- Khả năng tự đánh giá và theo dõi tiến trình phát triển năng lực content writing thông qua checklist và đo đọ.
+- Thấu hiểu lộ trình thăng tiến và phát triển sự nghiệp cho người viết content website từ con số 0.
+- Tận dụng tài khoản website thực hành được cung cấp để rèn luyện kỹ năng trong suốt khóa học.
 
 ## 📖 Nội Dung Chi Tiết
-### 1. Mục tiêu khóa học
-- **Thứ nhất:** Hiểu tầm quan trọng của việc viết bài website trong chiến lược digital marketing.
-- **Thứ hai:** Nắm bắt kỹ năng viết bài và các framework quản lý nội dung hiệu quả.
-- **Thứ ba:** Đánh giá năng lực người viết content qua các checklist và đo đo mục tiêu rõ ràng.
-- **Thứ tư:** Hiểu lộ trình thăng tiến và phát triển nghề nghiệp cho content writer.
-- **Thứ năm:** Tự bổ sung kiến thức và kỹ năng để cải thiện chất lượng công việc viết bài.
+### 1. Tổng quan khóa học và Mục tiêu học tập
+- Khóa học bao gồm hơn 30 video và nhiều bài tập thực hành nhằm rèn luyện kỹ năng viết bài website.
+- Điểm mạnh nổi bật: ATB Academy cung cấp tài khoản website cho người học thực hành trực tiếp, giúp hiểu quy trình phát triển của content writer từ con số 0.
+- Cấu trúc khóa học thiết kế để hỗ trợ cả người mới bắt đầu và những ai muốn tìm kiếm công việc thứ 2 hoặc thăng tiến trong lĩnh vực content marketing.
 
-### 2. Cấu trúc và nội dung học tập
-- Khóa học bao gồm hơn 30 video giảng trình và nhiều bài tập thực hành nhằm rèn luyện kỹ năng viết content website.
-- Điểm mạnh nổi bật: ATB Academy cung cấp tài khoản website cho người học thực hành suốt khóa học, giúp nắm quy trình phát triển từ con số 0.
-- Nội dung涵盖 từ fundamentals đến các kỹ thuật nâng cao trong quản lý và tạo nội dung cho website.
+### 2. Lộ trình phát triển năng lực content writer
+- Quy trình đánh giá năng lực thông qua các checklist và đo đọ được xây dựng trong khóa học.
+- Kiến thức và kỹ năng kèm theo để tối ưu hóa công việc quản lý nội dung website.
+- Phương pháp xây dựng và quản lý đội nhóm content website nếu cần.
 
-### 3. Tiến triển nghề nghiệp và quản lý đội nhóm
-- Khóa học hướng dẫn các bước thăng tiến từ writer cơ bản đến quản lý đội nhóm content website.
-- Người học sẽ nắm được các trách nhiệm và công việc cần thực hiện khi xây dựng hoặc quản lý một bộ content website.
-- Kết hợp lý thuyết với thực hành để chuẩn bị cho các dự án thực tế trong ngành marketing online.
+> **Ví dụ / Case Study:** Khóa học cung cấp tài khoản website thực hành để mô phỏng quy trình tạo và quản lý nội dung từ con số 0, giúp người học nắm bắt quy trình làm việc thực tế mà không cần đầu tư tài chính ban đầu.
 
 ## ❓ Câu Hỏi & Trả Lời Trọng Tâm (Q&A for Search)
-- **Hỏi:** Khóa học phù hợp cho đối tượng nào?
-  - **Đáp:** Khóa học phù hợp cho sinh viên và những ai muốn tìm kiếm công việc thứ 2 để kiếm thu nhập thêm, đặc biệt là những ai quan tâm trở thành content writer website.
-- **Hỏi:** Khóa học có cung cấp điều kiện thực hành không?
-  - **Đáp:** Có, ATB Academy cung cấp tài khoản website cho người học thực hành suốt quá trình học, giúp nắm rõ quy trình phát triển content từ con số 0.
-- **Hỏi:** Mục tiêu chính của khóa học là gì?
-  - **Đáp:** Khóa học giúp người học nắm vững tầm quan trọng, kỹ năng, phương pháp đánh giá, lộ trình thăng tiến và kiến thức bổ trợ cần thiết cho công việc content writer website.
+- **Hỏi:** Quá khóa học này có những mục tiêu chính gì?
+  - **Đáp:** Khóa học hướng tới 5 mục tiêu: hiểu tầm quan trọng của viết bài website, nắm kỹ năng viết và framework đánh giá, khả năng tự kiểm tra năng lực, lộ trình thăng tiến và phát triển, cùng với kiến thức hỗ trợ quản lý website. Các mục tiêu này giúp người học xây dựng nền tảng vững chắc trong content writing.
+- **Hỏi:** Tôi có được thực hành viết bài website không nếu chưa sở hữu website riêng?
+  - **Đáp:** Có, ATB Academy cung cấp tài khoản website cho người học thực hành trong suốt khóa học, giúp bạn nắm bắt quy trình phát triển của content writer từ con số 0 mà không cần đầu tư tài chính ban đầu.
+- **Hỏi:** Lộ trình thăng tiến của một người viết content website như thế nào?
+  - **Đáp:** Sau khi rèn luyện kỹ năng viết bài, người học có thể tiến tới quản lý nội dung, điều phối đội nhóm content, hoặc thăng tiến vào các vị trí marketing/content management trong các công ty và dự án lớn.

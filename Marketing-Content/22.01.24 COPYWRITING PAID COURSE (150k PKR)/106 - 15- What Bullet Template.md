@@ -1,35 +1,40 @@
 ---
 title: "What Bullet Template"
-course: "22.01.24 COPYWRITING PAID COURSE (150k PKR)"
-module: "Default"
-instructor: "Unknown"
+course: "content-inputs"
+module: "mang-content/22.01.24 COPYWRITING PAID COURSE (150k PKR)"
+instructor: "Không rõ"
 difficulty: "Cơ bản"
 tags:
   - "copywriting"
-  - "bullet-template"
-summary: "The What Bullet template is a copywriting framework where each bullet point simply answers a direct question, designed for ease of use and clarity."
+  - "bullet template"
+  - "content strategy"
+summary: "The What Bullet template is a straightforward framework that answers a question concisely through bullet points. It is designed for ease of use and simplicity in copywriting and content creation. Particularly favored by beginners and practitioners seeking quick, direct bullet structures."
 ---
 
 # What Bullet Template
 
 ## 💡 Tóm Tắt Cốt Lõi (Key Takeaways)
-- What Bullet template simply answers a question, providing the easiest and simplest structure for bullet points.
+- Answers a question concisely via bullet points
+- Designed for ease of use and simplicity
+- Ideal for quick copywriting and marketing applications
 
 ## 📖 Nội Dung Chi Tiết
-### 1. What Bullet Overview
-The What Bullet template is designed for clarity and direct engagement. Its core principle is that each bullet simply answers a specific question, removing ambiguity and guiding the reader efficiently through the message.
+### 1. Mô tả Template
+- **What Bullet**: A bullet template that simply answers a question. It is the 15th template in the series, favored for its directness and simplicity.
+- **Core Principle**: Directness and simplicity; each bullet serves as a direct response to a user query or pain point.
+- **Ease of Use**: Rated as the easiest and simplest bullet template to implement, requiring no complex structure.
 
-> **Ví dụ / Case Study:** Bản gỡ băng gốc không chứa ví dụ minh họa cụ thể về template What Bullet. Nguyên tắc cốt lõi là mỗi bullet trả lời trực tiếp một câu hỏi, đảm bảo tính ngắn gọn và dễ sử dụng.
+> **Ví dụ / Case Study**: Mô tả ngắn về cách áp dụng What Bullet trong nội dung marketing hoặc lead generation, phù hợp cho các đoạn câu hỏi khách hàng hoặc điểm nhấn lợi ích.
 
-### 2. Key Principles
-- **Câu hỏi trả lời:** Mỗi bullet được cấu trúc để trả lời một câu hỏi cụ thể của độc giả hoặc khách hàng.
-- **Đơn giản:** Được ví như loại bullet dễ nhất và đơn giản nhất để sử dụng do cấu trúc trực quan.
-- **Sự trung lập:** Loại bỏ các từ lặp thừa và tập trung vào thông điệp cốt lõi.
+### 2. Phân tích và Áp dụng
+- Phù hợp cho người mới bắt đầu trong copywriting.
+- Có thể lồng ghép trong email marketing, bài viết mạng xã hội hoặc landing page.
+- Giúp tối ưu hóa thời gian tạo nội dung mà vẫn giữ được tính thuyết phục.
 
 ## ❓ Câu Hỏi & Trả Lời Trọng Tâm (Q&A for Search)
 - **Hỏi:** What Bullet template là gì?
-  - **Đáp:** Là một framework viết chéo (copywriting) nơi mỗi bullet point đơn giản trả lời một câu hỏi trực tiếp, giúp người đọc dễ dàng hiểu thông điệp mà không cần phân tích thêm.
-- **Hỏi:** Tại sao What Bullet được coi là loại bullet dễ nhất?
-  - **Đáp:** Vì nó dựa trên cấu trúc câu hỏi-đáp đơn giản, giảm bớt nhu cầu dùng từ lặp hoặc ngôn ngữ thuyết phục phức tạp trong từng bullet.
-- **Hỏi:** What Bullet có thể áp dụng cho trường hợp nào?
-  - **Đáp:** Phù hợp cho các bài viết marketing, sales copy, hoặc nội dung cần truyền đạt thông điệp rõ ràng và trực tiếp mà không phức tạp hóa.
+  - **Đáp:** It is a simple bullet framework that answers a question directly, designed for ease of use in marketing and content creation.
+- **Hỏi:** Làm sao để sử dụng What Bullet template hiệu quả?
+  - **Đáp:** Use it to structure bullet points that directly address customer questions or pain points, keeping each point concise and focused on a single benefit or answer.
+- **Hỏi:** Why is What Bullet template recommended for beginners?
+  - **Đáp:** Because it is the easiest and simplest bullet template to use, requiring no complex structure while still delivering clear, persuasive messages.

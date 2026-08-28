@@ -1,36 +1,39 @@
 ---
 title: "118 - Upwork Profile First Impression Part 02"
-course: "22.01.24 COPYWRITING PAID COURSE (150k PKR)"
-module: "Mặc định"
+course: "content-inputs"
+module: "mang-content/22.01.24 COPYWRITING PAID COURSE (150k PKR)"
 instructor: "Không rõ"
 difficulty: "Trung cấp"
 tags:
-  - "Upwork"
-  - "Copywriting"
-  - "Profile Optimization"
-  - "Freelancing"
-summary: "Bản gỡ băng transcript cung cấp không chứa nội dung trích xuất được do nhiễu ASR và đoạn văn vô nghĩa; quá trình làm sạch theo quy tắc đã loại bỏ 100% đoạn hội thoại, leaving không có kiến thức chuyên môn nào để cấu trúc."
+  - "upwork"
+  - "profile"
+  - "copywriting"
+  - "freelancing"
+summary: "Bản gỡ băng có chất lượng thấp, nội dung không trích xuất được các đoạn học thuật, định nghĩa hoặc ví dụ có cấu trúc do lỗi ASR. Chỉ giữ nguyên tên khóa học và module."
 ---
 
 # 118 - Upwork Profile First Impression Part 02
 
-## 💡 Tóm Tắt Cốt Lõi (Key Takeaways)
-- Nội dung không thể trích xuất từ bản ghi cung cấp.
-- Bản ghi cần tái ghi hoặc xử lý lại bằng công cụ ASR chính xác.
+## 💡 Tóm Tắt Cốt Lõi
+- Bản gỡ băng (transcript) có chất lượng thấp, chứa nhiều nhiễu, từ lặp và ngôn ngữ hỗn hợp, không thể trích xuất được nội dung học thuật hoặc chuyên môn có cấu trúc.
+- Không tìm thấy được định nghĩa, phương pháp, framework hoặc case study nào có thể bảo tồn và nâng tầm theo yêu cầu.
 
 ## 📖 Nội Dung Chi Tiết
-### 1. Tổng quan
-- Không có dữ liệu khả dụng từ bản gỡ băng.
+### 1. Tổng quan về bài học
+N/A
 
-> **Ví dụ / Case Study:** Không có dữ liệu khả dụng.
+### 2. Các khái niệm chính
+N/A
 
-### 2. Các điểm chính
-- Không có dữ liệu khả dụng.
+> **Ví dụ / Case Study:** N/A
+
+### 2. Phương pháp và kỹ thuật
+N/A
 
 ## ❓ Câu Hỏi & Trả Lời Trọng Tâm (Q&A for Search)
-- **Hỏi:** Bài học này có thể tìm kiếm về chủ đề nào?
-  - **Đáp:** Tiêu đề chỉ đến bài học Upwork Profile, nhưng transcript không cung cấp nội dung chi tiết.
-- **Hỏi:** Nội dung bài học như thế nào?
-  - **Đáp:** Không thể phân tích do bản ghi không rõ ràng.
-- **Hỏi:** Khóa học thuộc phân khúc nào?
-  - **Đáp:** Trung cấp (theo thông tin khóa học).
+- **Hỏi:** Nội dung bài giảng "Upwork Profile First Impression Part 02" có gì?
+  - **Đáp:** Bản gỡ băng không chứa nội dung trích xuất được do lỗi nhận dạng giọng nói (ASR).
+- **Hỏi:** Cách tối ưu hồ sơ Upwork cho người mới?
+  - **Đáp:** Không thể trả lời từ nguồn dữ liệu cung cấp; đề xuất xem tài liệu chính khóa học hoặc video gốc.
+- **Hỏi:** Các thuật ngữ copywriting cơ bản cho Upwork?
+  - **Đáp:** Không tìm thấy trong bản gỡ băng.

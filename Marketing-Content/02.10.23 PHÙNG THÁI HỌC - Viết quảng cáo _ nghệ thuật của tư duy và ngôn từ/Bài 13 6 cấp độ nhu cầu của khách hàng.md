@@ -1,45 +1,37 @@
 ---
-title: "6 Cấp Độ Nhu Cầu của Khách Hàng - Bài 13: Tư duy và Ngôn từ Quảng Cáo"
-course: "02.10.23 PHÙNG THÁI HỌC - Viết quảng cáo _ nghệ thuật của tư duy và ngôn từ"
-module: ""
+title: "6 Cấp Độ Nhu Cầu Khách Hàng"
+course: "content-inputs"
+module: "mang-content/02.10.23 PHÙNG THÁI HỌC - Viết quảng cáo - Nghệ thuật của tư duy và ngôn từ"
 instructor: "Không rõ"
-difficulty: "Trung cấp"
+difficulty: "Nâng cao"
 tags:
-  - "marketing"
-  - "xách tay khách hàng"
-  - "framework 6 cấp độ"
-  - "quảng cáo"
-summary: "Học về 6 cấp độ nhu cầu khách hàng từ level 1 (chưa có vấn đề) đến level 6 (mua lại), cách đưa thông tin phù hợp cho từng cấp độ, và hành vi nhảy/quay ngược cấp độ của khách hàng trong hành trình mua sắm."
+  - "nhu cầu khách hàng"
+  - "xuất khẩu quảng cáo"
+summary: "Phân tích hệ thống 6 cấp độ nhu cầu khách hàng từ cấp độ chưa nhận ra vấn đề (1) đến đã mua và tái mua (6). Kèm theo chiến lược thông điệp và yếu tố tâm lý phù hợp cho từng cấp độ. Lưu ý về hành vi nhảy và lùi cấp độ không tuyến lý của khách hàng."
 ---
 
-# 6 Cấp Độ Nhu Cầu của Khách Hàng
+# 6 Cấp Độ Nhu Cầu Khách Hàng
 
 ## 💡 Tóm Tắt Cốt Lõi (Key Takeaways)
-- 6 cấp độ nhu cầu khách hàng định nghĩa rõ ràng từ level 1 (chưa có vấn đề) đến level 6 (mua lại)
-- Mỗi cấp độ đòi hỏi chiến lược thông điệp và tiếp cận marketing khác nhau
-- Khách hàng không theo tuyến tính cố định có thể nhảy cấp độ hoặc quay ngược lại
-- Cần nghiên cứu thị trường và test quảng cáo để xác định phân bố khách hàng theo từng cấp độ
+- Khách hàng không phải lúc nào cũng tiến triển từ cấp 1 đến 6 theo trình tự tuyến tính, có thể nhảy cấp độ hoặc lùi lại tùy theo kích thích và tình huống.
+- Mỗi cấp độ nhu cầu đòi hỏi chiến lược thông điệp khác nhau: từ tạo ra vấn đề, thức nhận nhu cầu, so sánh giải pháp, đến quyết định mua hàng và duy trì lòng trung thành.
+- Việc hiểu chính xác cấp độ khách hàng đang đứng là chìa khóa để đưa ra nội dung quảng cáo chính xác, không gây lãng phí hay gây phản cảm.
 
 ## 📖 Nội Dung Chi Tiết
-### 1. Cấu Trúc 6 Cấp Độ Nhu Cầu Khách Hàng
-- **Level 1: Chưa có vấn đề** – Khách hàng không nhận ra vấn đề của mình. Chiến lược: Tạo ra vấn đề/khoi lợi ích để đưa họ trở thành người có vấn đề. Ví dụ: bán lực cho sư, băng vệ sinh cho nam giới.
-- **Level 2: Có vấn đề nhưng chưa có nhu cầu** – Khách hàng có vấn đề nhưng chưa biết có giải pháp phù hợp, chưa phát sinh nhu cầu với sản phẩm. Ví dụ: bất động sản cho người thiếu tài chính, robot hút bụi chưa được phổ biến.
-- **Level 3: Có nhu cầu, đang tìm kiếm giải pháp** – Khách hàng đã có nhu cầu, đang so sánh các hệ thống giải pháp khác nhau để đáp ứng nhu cầu (ví dụ: giảm cân: tập thể dục, đánh mỡ, thực phẩm chức năng, hút mỡ; cư trú: thuê nhà vs mua nhà).
-- **Level 4: Đã biết giải pháp, đang chọn thương hiệu** – Khách hàng đã chọn hệ thống giải pháp, bây giờ cần chọn đơn vị/thương hiệu. Thông điệp tập trung vào tính năng, giá, khuyến mãi, giá trị thương hiệu.
-- **Level 5: Đã biết thương hiệu, phân vân ra quyết định** – Khách hàng biết thương hiệu nhưng chưa mua. Thông điệp: khuyến mãi hấp dẫn, lý do tin tưởng (tại sao mua bây giờ phù hợp hơn).
-- **Level 6: Đã mua, phân vân mua lại** – Khách hàng đã mua, cần chính sách ưu đãi khách hàng trung thành hoặc cung cấp cách sử dụng sản phẩm mới để gia tăng nhu cầu tái mua (ví dụ: tinh bột nghệ với mật ong vs chanh).
- 
- > **Ví dụ / Case Study:** Khách hàng ở trung tâm thương mại ban đầu ở level 2 (có vấn đề nhưng chưa có nhu cầu về xe đạp điện gấp) sau khi trải nghiệm và tìm kiếm, chuyển ngay sang level 4 (chọn lựa thương hiệu) và mua hàng, bỏ qua hoàn toàn level 3 (so sánh hệ thống giải pháp). Ví dụ khác: sản phẩm công người sán, khách hàng có thể nhảy từ level 2 lên level 5 chỉ sau một lượt tiếp nhận thông tin quảng cáo.
+### 1. Cấp Độ 1 & 2: Tạo ra vấn đề và thức nhận nhu cầu
+- **Cấp độ 1:** Khách hàng không cảm thấy có vấn đề. Nếu tiếp cận trực tiếp với sản phẩm sẽ vô lý. Chiến lược phải tạo ra vấn đề hoặc lợi ích mới để đưa khách hàng từ "không có vấn đề" trở thành "có vấn đề". Ví dụ: Bán lực cho sư cần tạo ra vấn đề về tóc; Bán băng vệ sinh cho đàn ông cần tạo ra công dụng mới.
+- **Cấp độ 2:** Khách hàng có vấn đề nhưng chưa có nhu cầu sản phẩm cụ thể. Họ có vấn đề nhưng "không phát sinh nhu cầu" với sản phẩm do chưa biết giải pháp tồn tại, không tin sản phẩm, hoặc không phù hợp. Ví dụ: Người thu nhập 5-6 triệu/tháng không mua nhà do tài chính; Khách hàng bảo hiểm do tin cậy hoặc phù hợp; Người chưa biết robot hút bụi.
 
-### 2. Lưu Ý Về Hành Vi Khách Hàng và Cách Xác Định Cấp Độ
-- **Lưu ý 1:** Khách hàng không luôn phát triển theo trình tự 1→2→3→4→5→6. Có thể nhảy cấp độ (ví dụ: level 2 → level 4 chỉ sau một buổi giới thiệu sản phẩm tại chợ) hoặc quay ngược lại cấp độ thấp hơn do không thoả mãn hoặc thay đổi hoàn cảnh.
-- **Lưu ý 2:** Không thể dựa vào tư duy để đoán được tỉ trọng khách hàng ở từng cấp độ trên thị trường. Cần thực hiện nghiên cứu thị trường hoặc test quảng cáo theo từng thông điệp để tự nhiên test và đánh giá cấu trúc nhu cầu trên thị trường thực tế.
-- **Chiến lược nội dung theo cấp độ:** Level 1-2: Tạo khách hàng mới qua việc tạo vấn đề và lợi ích. Level 3-4: Tranh giành khách hàng qua so sánh giải pháp và đánh giá thương hiệu/giá. Level 5: Thuyết phục ra quyết định qua khuyến mãi và lý do tin tưởng. Level 6: Giữ chân khách hàng qua chính sách ưu đãi và cung cấp giá trị sử dụng mới.
+### 2. Cấp Độ 3 & 4: Tìm kiếm giải pháp và chọn lựa thương hiệu
+- **Cấp độ 3:** Khách hàng đã có nhu cầu rõ ràng. Bây giờ họ cần so sánh các hệ thống giải pháp khác nhau để đáp ứng nhu cầu đó. Các giải pháp khác nhau về chi phí, an toàn, rủi ro, phù hợp. Chiến lược thông điệp không nên nhắc lại lý do cần giảm cân hay vấn đề gì, mà tập trung vào: "Tại sao nên chọn hệ thống giải pháp này thay vì hệ thống khác?".
+- **Cấp độ 4:** Khách hàng đã chọn được loại giải pháp (ví dụ: hút mỡ, mua nhà, thuê nhà). Bây giờ họ đang chọn đơn vị, thương hiệu cung cấp giải pháp đó. Không cần giải thích lại lý do cần giải pháp, mà tập trung vào yếu tố: Tính năng, Giá, Khuyến mãi, Giá trị thương hiệu. Ví dụ: Chọn thẩm mỹ viện nào cho hút mỡ; Chọn phòng gym nào; Chọn đơn vị bán nhà ở nào; Chọn thương hiệu thực phẩm chức năng.
+
+> **Ví dụ / Case Study:** Trong bài giảng, giảng viên minh họa qua nhiều tình huống thực tế: Người thu nhập thấp không mua bất động sản do tài chính; Khách hàng bảo hiểm do tin cậy hoặc phù hợp; Người không biết robot hút bụi; Khi quay về 3 năm trước, nhiều người chưa biết sản phẩm này nên không có nhu cầu dù có vấn đề; Khách hàng tại trung tâm thương mại nhảy từ cấp 2 (có vấn đề, chưa có nhu cầu) lên cấp 4 (lựa chọn thương hiệu) trực tiếp bỏ qua so sánh giải pháp (cấp 3); Các giải pháp giảm cân: tập thể dục, đánh mỡ bụng, thực phẩm chức năng, hút mỡ; Lựa chọn giữa thuê nhà và mua nhà; Sử dụng tinh bột nghệ với mật ong thay vì chanh.
 
 ## ❓ Câu Hỏi & Trả Lời Trọng Tâm (Q&A for Search)
-- **Hỏi:** Cách xác định khách hàng đang ở cấp độ nào trong 6 cấp độ nhu cầu?
-  - **Đáp:** Cần thực hiện nghiên cứu thị trường để phân tích tỉ trọng khách hàng ở từng cấp độ, hoặc test hiệu quả quảng cáo theo từng thông điệp phù hợp với từng cấp độ để đánh giá phản ứng trên thị trường.
-- **Hỏi:** Chiến lược marketing phù hợp cho từng cấp độ nhu cầu như thế nào?
-  - **Đáp:** Level 1-2 cần tạo ra vấn đề và lợi ích để chuyển khách hàng mới; Level 3-4 cần so sánh giải pháp và đánh giá thương hiệu/giá; Level 5 cần khuyến mãi và lý do tin tưởng; Level 6 cần chính sách giữ chân và cung cấp cách sử dụng sản phẩm mới.
-- **Hỏi:** Tại sao khách hàng có thể nhảy cấp độ hoặc quay ngược lại trong hành trình mua hàng?
-  - **Đáp:** Do tính chất không tuyến tính của hành vi tiêu dùng, tác động của trải nghiệm trực tiếp, và yếu tố bên ngoài như giá, tính khả thi, hay sự thay đổi nhu cầu cá nhân theo thời gian.
+- **Hỏi:** 6 cấp độ nhu cầu khách hàng là gì và áp dụng như thế nào trong marketing?
+  - **Đáp:** 6 cấp độ nhu cầu khách hàng mô tả hành trình từ cấp 1 (chưa có vấn đề) đến cấp 6 (đã mua và tái mua). Mỗi cấp độ đòi hỏi chiến lược thông điệp cụ thể: Cấp 1-2 cần tạo ra vấn đề và thức nhận nhu cầu; Cấp 3-4 cần so sánh giải pháp và chọn thương hiệu; Cấp 5 cần khuyến mãi và lý do tin tưởng; Cấp 6 cần chính sách giữ chân và hướng dẫn sử dụng mới. Hiểu cấp độ khách hàng giúp tối ưu hóa hiệu quả quảng cáo.
+- **Hỏi:** Làm sao để xác định khách hàng đang ở cấp độ nào?
+  - **Đáp:** Chỉ có nghiên cứu thị trường (survey, dữ liệu) hoặc đánh giá cảm nhận thị trường mới biết được tỉ trọng khách hàng ở từng cấp độ. Khách hàng có thể nhảy cấp độ không tuyến tính, có thể lùi lại hoặc bỏ qua các cấp độ giữaทาง. Không thể giả định tất cả khách hàng đều đi từ dưới lên trên.
+- **Hỏi:** Chiến lược nội dung cho từng cấp độ nhu cầu khác nhau như thế nào?
+  - **Đáp:** Cấp 1: Tạo ra vấn đề/li ích mới. Cấp 2: Nêu vấn đề có sẵn + lợi ích để thức nhận nhu cầu. Cấp 3: So sánh các hệ thống giải pháp, làm rõ ưu/nhược điểm. Cấp 4: Nhấn mạnh tính năng, giá, khuyến mãi, giá trị thương hiệu. Cấp 5: Đưa ra khuyến mãi, lý do tin tưởng, phù hợp thời điểm. Cấp 6: Cung cấp chính sách khách hàng trung thành, hướng dẫn cách sử dụng mới lạ để gia tăng giá trị sản phẩm.

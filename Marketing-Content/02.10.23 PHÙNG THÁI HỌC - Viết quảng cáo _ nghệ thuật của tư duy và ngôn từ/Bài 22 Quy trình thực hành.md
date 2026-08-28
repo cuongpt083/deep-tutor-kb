@@ -1,42 +1,54 @@
 ---
-title: "Bài 22 Quy trình thực hành"
-course: "02.10.23 PHÙNG THÁI HỌC - Viết quảng cáo _ nghệ thuật của tư duy và ngôn từ"
-module: "Mặc định"
+title: "Bài 22 Quy trình thực hành - Viết quảng cáo: Tư duy và ngôn từ"
+course: "content-inputs"
+module: "mang-content/02.10.23 PHÙNG THÁI HỌC - Viết quảng cáo _ nghệ thuật của tư duy và ngôn từ"
 instructor: "Không rõ"
 difficulty: "Trung cấp"
 tags:
-  - "quảng cáo"
-  - "tư duy"
-  - "ngôn từ"
-  - "quy trình thực hành"
-summary: "Bài học trình bày quy trình sản xuất và kiểm thử nội dung quảng cáo. Từ việc lên kế hoạch bài viết cho đến bước viết thực tế, người học có thể đánh giá tương tác khách hàng và phân khúc thị trường dựa trên hiệu quả quảng cáo mà không cần nghiên cứu sâu về dữ liệu."
+  - "viết quảng cáo"
+  - "phân tích sản phẩm"
+  - "phân khúc khách hàng"
+  - "tìm insight"
+summary: "Bài học trình bày quy trình thực hành viết quảng cáo bao gồm 4 bước: lựa chọn sản phẩm đa dạng, phân tích giá trị sản phẩm (bảng 16 thông tin), phân khúc khách hàng với framework 3W và tìm insight, và xây dựng kế hoạch viết bài. Bài nhấn mạnh chọn sản phẩm thương hiệu cụ thể而不必 chung chung để tạo nội dung chi tiết và khả thi. Quy trình này cũng cung cấp nền tảng để sản xuất và test nội dung quảng cáo thực tế khi thiếu dữ liệu thị trường."
 ---
 
 # Bài 22 Quy trình thực hành
 
 ## 💡 Tóm Tắt Cốt Lõi (Key Takeaways)
-- Quy trình chia sẻ không chỉ rèn luyện kỹ năng viết quảng cáo mà còn sản xuất và kiểm thử nội dung quảng cáo trong thực tế.
-- Phân phối 12 bài quảng cáo: 9 bài phối hợp giữa công cụ truyền tải và thông tin cốt lõi; 3 bài đi thẳng vào thông tin cốt lõi luôn.
-- Bước cuối cùng sau khi hoàn thành kế hoạch là bắt tay vào viết theo phương pháp đã học trước đó.
-- Trong absence dữ liệu khách hàng chi tiết, có thể tạo bài, test qua chạy quảng cáo và đánh giá hiệu quả để hiểu về nhóm khách hàng và mức độ quan tâm.
-- Bài học kết thúc là điểm dừng để thực hành; cần nắm vững bài 1 đến bài 22 trước khi chuyển sang bài 23 (Storytelling).
+- Quy trình viết quảng cáo gồm 4 bước chính: lựa chọn sản phẩm, phân tích giá trị sản phẩm, phân khúc khách hàng và tìm insight, xây dựng kế hoạch viết bài.
+- Nên chọn sản phẩm thương hiệu cụ thể而不必 chung chung để nắm được tính năng, ưu điểm và tạo bảng 16 thông tin chi tiết.
+- Framework 3W (Who, What, Why) và cấp độ nhu cầu 6 cấp là nền tảng để phân khúc khách hàng và khai phá insight sâu.
 
 ## 📖 Nội Dung Chi Tiết
-### 1. Khung cấu trúc và quy trình sản xuất quảng cáo
-- **Quy trình 12 bài:** Mô tả khung cấu trúc bao gồm 12 bài quảng cáo tiềm năng, trong đó 9 bài là sự phối hợp giữa công cụ truyền tải và thông tin cốt lõi, còn 3 bài là đi thẳng vào thông tin cốt lõi luôn.
-- **Quy trình ghi chép:** Sau khi hoàn thành kế hoạch viết bài (như bài học trước), bước tiếp theo là thực hành viết bài quảng cáo. Quy trình này vừa rèn luyện kỹ năng viết vừa tạo ra sản phẩm có thể test ngay lập tức.
-- **Thực tế sản xuất:** Không cần nghiên cứu sâu dữ liệu khách hàng ban đầu. Thay vào đó, tạo ra các bài theo quy trình trên, đưa vào chạy quảng cáo, và dựa trên hiệu quả (performance) để đánh giá.
+### 1. Bước 1: Lựa chọn sản phẩm để rèn kỹ năng
+- Chọn sản phẩm đa dạng (ít tính năng và nhiều tính năng) để rèn luyện kỹ năng viết quảng cáo tròn trịa và toàn diện.
+- Tránh chọn sản phẩm chung chung (ví dụ: "robot hút bụi") vì khó nắm tính năng và ưu điểm, dẫn đến không thể làm bảng 16 thông tin sản phẩm.
+- Chiến lược thực tế: Chọn sản phẩm của một thương hiệu cụ thể, truy cập website/landing page, đọc toàn bộ thông tin và coi như đang viết quảng cáo cho sản phẩm của thương hiệu đó.
 
-### 2. Từ kế hoạch đến thực tế và đánh giá
-- **Bước viết:** Viết như thế nào đã được học rất rõ trong bài học ngay trước đó; bước này là kết quả trực tiếp sau khi kế hoạch được hoàn thành.
-- **Lưu ý quan trọng:** Quy trình này mở rộng ra để các bạn sản xuất nội dung quảng cáo và test nội dung quảng cáo, chứ không chỉ dừng lại ở việc rèn luyện kỹ năng viết.
-- **Triển khai quảng cáo trong thực tế:** Bản chất khoa học không muốn nói sâu về quá trình chạy quảng cáo, nhưng thực tế để chạy một bài quảng cáo tốt, cần hiểu khách hàng và thị trường. Nếu không có đủ thông tin dữ liệu từ thị trường, hãy làm theo quy trình sáng tạo bài viết, test bài đó và dựa trên quá trình chạy quảng cáo để lường hiệu quả.
-- **Đánh giá khách hàng:** Từ kết quả test, có thể đánh giá được các mối quan tâm của khách hàng trên thị trường, tỉ trọng khách hàng đang ở nhóm nào nhiều hơn, ít hơn.
+> **Ví dụ / Case Study:** Sản phẩm "Robot thuốc bộ thông minh". Độc giả ví dụ: Người vợ sống ở khu trung cư các thành phố lớn. Chia theo cấp độ nhu cầu: Nhóm có nhu cầu (lưu kê tính năng giá, khuyến mãi, chi phí, thương hiệu, dịch vụ) và nhóm chưa có nhu cầu. Công cụ truyền tải được điền dựa trên sở thích khách hàng: làm đẹp, chăm con, giữ gìn hạnh phúc gia đình, tăm sóc bản thân, lười v.v. Ý tưởng khởi nguồn ví dụ: Viết về làm đẹp giới thiệu giá, viết về làm đẹp giới thiệu thương hiệu, viết về chăm con giới thiệu khuyến mãi,...
+
+### 2. Bước 2: Phân tích giá trị sản phẩm và bảng 16 thông tin
+- Sản phẩm có 3 tầng giá trị cơ bản, hoặc 4 tầng khi thêm lợi ích cảm tính.
+- Bảng 16 thông tin được tạo dựa trên việc kết hợp các tầng giá trị với các yếu tố khác (tính năng, ưu điểm, v.v.).
+- Quan trọng: Với sản phẩm cụ thể của thương hiệu, dễ nắm tính năng và ưu điểm; với sản phẩm chung chung rất khó thực hiện bước này.
+
+### 3. Bước 3: Phân khúc khách hàng và tìm insight
+- Chia khách hàng thành 3 nhóm: người mua, người ảnh hưởng, người tiêu dùng.
+- Mỗi nhóm có 6 cấp độ nhu cầu, không chỉ chia theo độ tuổi, giới tính, địa lý mà còn theo cấp độ nhu cầu.
+- Sử dụng framework 3W: **Who** (ai - ai là độc giả, ai là người mua, v.v.), **What** (cách khách hàng cần sản phẩm để giải quyết vấn đề), **Why** (tại sao họ cần, insight sâu).
+- Mục tiêu: Tìm càng nhiều insight càng tốt. Insight ví dụ: làm đẹp, chăm con, giữ gìn gia đình, tăm sóc bản thân, lười.
+
+### 4. Bước 4: Kế hoạch viết bài và tạo ý tưởng khởi nguồn
+- Bảng kế hoạch viết bài bao gồm 5 cột: Độc giả, Thông tin cốt lõi, Công cụ truyền tải, Insight, Ý tưởng khởi nguồn.
+- Mô hình tạo ý: Với 3 thông tin cốt lõi và 3 công cụ truyền tải, có thể tạo ra **9 ý tưởng khởi nguồn** bằng cách phối hợp 1 công cụ truyền tải với 1 thông tin cốt lõi.
+- Thêm **3 ý tưởng** đi thẳng vào thông tin cốt lõi (viết bài quảng cáo về tính năng, giá, khuyến mãi mà không cần công cụ truyền tải trung gian).
+- Tổng cộng mỗi bài viết có thể có **12 ý tưởng khởi nguồn**.
+- Quy trình này không chỉ rèn kỹ năng viết mà còn là nền tảng để sản xuất và test nội dung quảng cáo thực tế; khi thiếu dữ liệu thị trường, có thể áp dụng quy trình sáng tạo này và dựa trên đo lường hiệu quả quảng cáo để đánh giá nhóm khách hàng nào thu hút hơn.
 
 ## ❓ Câu Hỏi & Trả Lời Trọng Tâm (Q&A for Search)
-- **Hỏi:** Quy trình bài 22 PHÙNG THÁI HỌC hướng tới mục đích gì?
-  - **Đáp:** Quy trình giúp người học sản xuất và kiểm thử nội dung quảng cáo, từ kế hoạch viết đến bài viết thực tế, và đánh giá hiệu quả quảng cáo để hiểu về khách hàng và thị trường mà không cần dữ liệu sâu.
-- **Hỏi:** Trong quy trình này, 12 bài quảng cáo được phân chia ra sao?
-  - **Đáp:** Có 12 bài quảng cáo tiềm năng: 9 bài là sự phối hợp giữa công cụ truyền tải và thông tin cốt lõi, còn 3 bài là đi thẳng vào thông tin cốt lõi luôn.
-- **Hỏi:** Bài học 22 là bài dừng điểm để chuyển sang nội dung mới chưa?
-  - **Đáp:** Có, bài học 22 kết thúc là điểm dừng để các bạn thực hành và nắm vững bài 1 đến 22, sau đó mới có thể bắt đầu bài 23 về Storytelling.
+- **Hỏi:** Cách chọn sản phẩm để viết quảng cáo như thế nào để đảm bảo khả thi và chi tiết?
+  - **Đáp:** Chọn sản phẩm thương hiệu cụ thể而不必 chung chung, nghiên cứu website/landing page để nắm tính năng, ưu điểm và thông số chi tiết, tránh khó khăn trong việc làm bảng 16 thông tin sản phẩm.
+- **Hỏi:** Framework 3W (Who, What, Why) đóng vai trò gì trong quy trình viết quảng cáo?
+  - **Đáp:** Framework 3W giúp phân khúc khách hàng thành các nhóm cụ thể (mua, ảnh hưởng, tiêu dùng), làm rõ nhu cầu thông qua 6 cấp độ, và cung cấp cấu trúc Who-What-Why để tìm insight sâu và tạo ý tưởng nội dung có hướng đi.
+- **Hỏi:** Cách tạo ý tưởng khởi nguồn cho bài quảng cáo là như thế nào? Tại sao có 12 ý tưởng cho mỗi bài?
+  - **Đáp:** Với 3 thông tin cốt lõi và 3 công cụ truyền tải, có 9 ý tưởng kết hợp giữa công cụ và thông tin cốt lõi. Thêm 3 ý tưởng viết thẳng vào thông tin cốt lõi (tính năng, giá, khuyến mãi). Tổng cộng 12 ý tưởng khởi nguồn cho mỗi kịch bản viết quảng cáo.
